@@ -1,0 +1,25 @@
+body {
+    background-color: aliceblue;
+    box-sizing: border-box;
+}
+
+#timer {
+    font-size: 20vw;
+    height: 20vw;
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+    border: 1px solid plum;
+}
+
+#start {
+    text-align: center;
+    color: #fff;
+    line-height: 30vw;
+    font-size: 7vw;
+    margin: 100px auto;
+    background-color: palevioletred;
+    border-radius: 15vw;
+    height: 30vw;
+    width: 30vw;
+}
